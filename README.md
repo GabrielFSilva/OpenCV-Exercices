@@ -1,1 +1,1 @@
-# OpenCV-Exercices
+# OpenCV-Exercises
